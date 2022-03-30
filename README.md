@@ -1,4 +1,4 @@
-# mac-arabic-123-pc
+# Arabic numbers in Arabic PC keyboard
 
 An Arabic - PC layout with English numbers.
 
