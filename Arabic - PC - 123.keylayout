@@ -137,16 +137,16 @@
             <key code="77" output="&#x001E;"/>
             <key code="78" output="-"/>
             <key code="81" output="="/>
-            <key code="82" output="٠"/>
-            <key code="83" output="١"/>
-            <key code="84" output="٢"/>
-            <key code="85" output="٣"/>
-            <key code="86" output="٤"/>
-            <key code="87" output="٥"/>
-            <key code="88" output="٦"/>
-            <key code="89" output="٧"/>
-            <key code="91" output="٨"/>
-            <key code="92" output="٩"/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
             <key code="94" output="`"/>
             <key code="96" output="&#x0010;"/>
             <key code="97" output="&#x0010;"/>
@@ -199,18 +199,18 @@
             <key code="15" output="&#x0012;"/>
             <key code="16" output="&#x0019;"/>
             <key code="17" output="&#x0014;"/>
-            <key code="18" output="١"/>
-            <key code="19" output="٢"/>
-            <key code="20" output="٣"/>
-            <key code="21" output="٤"/>
-            <key code="22" output="٦"/>
-            <key code="23" output="٥"/>
+            <key code="18" output="1"/>
+            <key code="19" output="2"/>
+            <key code="20" output="3"/>
+            <key code="21" output="4"/>
+            <key code="22" output="6"/>
+            <key code="23" output="5"/>
             <key code="24" output="="/>
-            <key code="25" output="٩"/>
-            <key code="26" output="٧"/>
+            <key code="25" output="9"/>
+            <key code="26" output="7"/>
             <key code="27" output="&#x001F;"/>
-            <key code="28" output="٨"/>
-            <key code="29" output="٠"/>
+            <key code="28" output="8"/>
+            <key code="29" output="0"/>
             <key code="30" output="&#x001D;"/>
             <key code="31" output="&#x000F;"/>
             <key code="32" output="&#x0015;"/>
@@ -247,16 +247,16 @@
             <key code="77" output="&#x001E;"/>
             <key code="78" output="-"/>
             <key code="81" output="="/>
-            <key code="82" output="٠"/>
-            <key code="83" output="١"/>
-            <key code="84" output="٢"/>
-            <key code="85" output="٣"/>
-            <key code="86" output="٤"/>
-            <key code="87" output="٥"/>
-            <key code="88" output="٦"/>
-            <key code="89" output="٧"/>
-            <key code="91" output="٨"/>
-            <key code="92" output="٩"/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
             <key code="93" output="0"/>
             <key code="94" output="`"/>
             <key code="96" output="&#x0010;"/>
@@ -310,18 +310,18 @@
             <key code="15" output="ق"/>
             <key code="16" output="غ"/>
             <key code="17" output="ف"/>
-            <key code="18" output="١"/>
-            <key code="19" output="٢"/>
-            <key code="20" output="٣"/>
-            <key code="21" output="٤"/>
-            <key code="22" output="٦"/>
-            <key code="23" output="٥"/>
+            <key code="18" output="1"/>
+            <key code="19" output="2"/>
+            <key code="20" output="3"/>
+            <key code="21" output="4"/>
+            <key code="22" output="6"/>
+            <key code="23" output="5"/>
             <key code="24" output="="/>
-            <key code="25" output="٩"/>
-            <key code="26" output="٧"/>
+            <key code="25" output="9"/>
+            <key code="26" output="7"/>
             <key code="27" output="-"/>
-            <key code="28" output="٨"/>
-            <key code="29" output="٠"/>
+            <key code="28" output="8"/>
+            <key code="29" output="0"/>
             <key code="30" output="د"/>
             <key code="31" output="خ"/>
             <key code="32" output="ع"/>
@@ -358,16 +358,16 @@
             <key code="77" output="&#x001E;"/>
             <key code="78" output="-"/>
             <key code="81" output="="/>
-            <key code="82" output="٠"/>
-            <key code="83" output="١"/>
-            <key code="84" output="٢"/>
-            <key code="85" output="٣"/>
-            <key code="86" output="٤"/>
-            <key code="87" output="٥"/>
-            <key code="88" output="٦"/>
-            <key code="89" output="٧"/>
-            <key code="91" output="٨"/>
-            <key code="92" output="٩"/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
             <key code="93" output="ذ"/>
             <key code="94" output="ذ"/>
             <key code="96" output="&#x0010;"/>
@@ -469,16 +469,16 @@
             <key code="77" output="/"/>
             <key code="78" output="-"/>
             <key code="81" output="="/>
-            <key code="82" output="٠"/>
-            <key code="83" output="١"/>
-            <key code="84" output="٢"/>
-            <key code="85" output="٣"/>
-            <key code="86" output="٤"/>
-            <key code="87" output="٥"/>
-            <key code="88" output="٦"/>
-            <key code="89" output="٧"/>
-            <key code="91" output="٨"/>
-            <key code="92" output="٩"/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
             <key code="93" output="ّ"/>
             <key code="94" output="ّ"/>
             <key code="96" output="&#x0010;"/>
@@ -563,16 +563,16 @@
             <key code="77" output="/"/>
             <key code="78" output="-"/>
             <key code="81" output="="/>
-            <key code="82" output="٠"/>
-            <key code="83" output="١"/>
-            <key code="84" output="٢"/>
-            <key code="85" output="٣"/>
-            <key code="86" output="٤"/>
-            <key code="87" output="٥"/>
-            <key code="88" output="٦"/>
-            <key code="89" output="٧"/>
-            <key code="91" output="٨"/>
-            <key code="92" output="٩"/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
             <key code="93" output="&#x0003;"/>
             <key code="94" output="٫"/>
             <key code="96" output="&#x0010;"/>
@@ -650,16 +650,16 @@
             <key code="77" output="/"/>
             <key code="78" output="-"/>
             <key code="81" output="="/>
-            <key code="82" output="٠"/>
-            <key code="83" output="١"/>
-            <key code="84" output="٢"/>
-            <key code="85" output="٣"/>
-            <key code="86" output="٤"/>
-            <key code="87" output="٥"/>
-            <key code="88" output="٦"/>
-            <key code="89" output="٧"/>
-            <key code="91" output="٨"/>
-            <key code="92" output="٩"/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
             <key code="93" output="&#x0003;"/>
             <key code="94" output="٬"/>
             <key code="96" output="&#x0010;"/>
@@ -761,16 +761,16 @@
             <key code="77" output="&#x001E;"/>
             <key code="78" output="-"/>
             <key code="81" output="="/>
-            <key code="82" output="٠"/>
-            <key code="83" output="١"/>
-            <key code="84" output="٢"/>
-            <key code="85" output="٣"/>
-            <key code="86" output="٤"/>
-            <key code="87" output="٥"/>
-            <key code="88" output="٦"/>
-            <key code="89" output="٧"/>
-            <key code="91" output="٨"/>
-            <key code="92" output="٩"/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
             <key code="93" output="ذ"/>
             <key code="94" output="٫"/>
             <key code="96" output="&#x0010;"/>
@@ -983,16 +983,16 @@
             <key code="77" output="&#x001E;"/>
             <key code="78" output="-"/>
             <key code="81" output="="/>
-            <key code="82" output="٠"/>
-            <key code="83" output="١"/>
-            <key code="84" output="٢"/>
-            <key code="85" output="٣"/>
-            <key code="86" output="٤"/>
-            <key code="87" output="٥"/>
-            <key code="88" output="٦"/>
-            <key code="89" output="٧"/>
-            <key code="91" output="٨"/>
-            <key code="92" output="٩"/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
             <key code="94" output="`"/>
             <key code="96" output="&#x0010;"/>
             <key code="97" output="&#x0010;"/>
@@ -1045,18 +1045,18 @@
             <key code="15" output="&#x0012;"/>
             <key code="16" output="&#x0019;"/>
             <key code="17" output="&#x0014;"/>
-            <key code="18" output="١"/>
-            <key code="19" output="٢"/>
-            <key code="20" output="٣"/>
-            <key code="21" output="٤"/>
-            <key code="22" output="٦"/>
-            <key code="23" output="٥"/>
+            <key code="18" output="1"/>
+            <key code="19" output="2"/>
+            <key code="20" output="3"/>
+            <key code="21" output="4"/>
+            <key code="22" output="6"/>
+            <key code="23" output="5"/>
             <key code="24" output="="/>
-            <key code="25" output="٩"/>
-            <key code="26" output="٧"/>
+            <key code="25" output="9"/>
+            <key code="26" output="7"/>
             <key code="27" output="&#x001F;"/>
-            <key code="28" output="٨"/>
-            <key code="29" output="٠"/>
+            <key code="28" output="8"/>
+            <key code="29" output="0"/>
             <key code="30" output="&#x001D;"/>
             <key code="31" output="&#x000F;"/>
             <key code="32" output="&#x0015;"/>
@@ -1093,16 +1093,16 @@
             <key code="77" output="&#x001E;"/>
             <key code="78" output="-"/>
             <key code="81" output="="/>
-            <key code="82" output="٠"/>
-            <key code="83" output="١"/>
-            <key code="84" output="٢"/>
-            <key code="85" output="٣"/>
-            <key code="86" output="٤"/>
-            <key code="87" output="٥"/>
-            <key code="88" output="٦"/>
-            <key code="89" output="٧"/>
-            <key code="91" output="٨"/>
-            <key code="92" output="٩"/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
             <key code="93" output="0"/>
             <key code="94" output="`"/>
             <key code="96" output="&#x0010;"/>
@@ -1204,7 +1204,7 @@
             <key code="77" output="&#x001E;"/>
             <key code="78" output="-"/>
             <key code="81" output="="/>
-            <key code="82" output="٠"/>
+            <key code="82" output="0"/>
             <key code="83" output="1"/>
             <key code="84" output="2"/>
             <key code="85" output="3"/>
@@ -1315,16 +1315,16 @@
             <key code="77" output="/"/>
             <key code="78" output="-"/>
             <key code="81" output="="/>
-            <key code="82" output="٠"/>
-            <key code="83" output="١"/>
-            <key code="84" output="٢"/>
-            <key code="85" output="٣"/>
-            <key code="86" output="٤"/>
-            <key code="87" output="٥"/>
-            <key code="88" output="٦"/>
-            <key code="89" output="٧"/>
-            <key code="91" output="٨"/>
-            <key code="92" output="٩"/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
             <key code="93" output="ّ"/>
             <key code="94" output="٬"/>
             <key code="96" output="&#x0010;"/>
@@ -1408,16 +1408,16 @@
             <key code="77" output="/"/>
             <key code="78" output="-"/>
             <key code="81" output="="/>
-            <key code="82" output="٠"/>
-            <key code="83" output="١"/>
-            <key code="84" output="٢"/>
-            <key code="85" output="٣"/>
-            <key code="86" output="٤"/>
-            <key code="87" output="٥"/>
-            <key code="88" output="٦"/>
-            <key code="89" output="٧"/>
-            <key code="91" output="٨"/>
-            <key code="92" output="٩"/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
             <key code="93" output="&#x0003;"/>
             <key code="96" output="&#x0010;"/>
             <key code="97" output="&#x0010;"/>
@@ -1493,16 +1493,16 @@
             <key code="77" output="/"/>
             <key code="78" output="-"/>
             <key code="81" output="="/>
-            <key code="82" output="٠"/>
-            <key code="83" output="١"/>
-            <key code="84" output="٢"/>
-            <key code="85" output="٣"/>
-            <key code="86" output="٤"/>
-            <key code="87" output="٥"/>
-            <key code="88" output="٦"/>
-            <key code="89" output="٧"/>
-            <key code="91" output="٨"/>
-            <key code="92" output="٩"/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
             <key code="93" output="&#x0003;"/>
             <key code="96" output="&#x0010;"/>
             <key code="97" output="&#x0010;"/>
@@ -1603,16 +1603,16 @@
             <key code="77" output="&#x001E;"/>
             <key code="78" output="-"/>
             <key code="81" output="="/>
-            <key code="82" output="٠"/>
-            <key code="83" output="١"/>
-            <key code="84" output="٢"/>
-            <key code="85" output="٣"/>
-            <key code="86" output="٤"/>
-            <key code="87" output="٥"/>
-            <key code="88" output="٦"/>
-            <key code="89" output="٧"/>
-            <key code="91" output="٨"/>
-            <key code="92" output="٩"/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
             <key code="93" output="ذ"/>
             <key code="94" output="٫"/>
             <key code="96" output="&#x0010;"/>
